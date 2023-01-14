@@ -1,0 +1,15 @@
+C:\УЧЕБА\Языки программирования\Test_2\bin\Debug\net7.0\Test_2.exe
+C:\УЧЕБА\Языки программирования\Test_2\bin\Debug\net7.0\Test_2.deps.json
+C:\УЧЕБА\Языки программирования\Test_2\bin\Debug\net7.0\Test_2.runtimeconfig.json
+C:\УЧЕБА\Языки программирования\Test_2\bin\Debug\net7.0\Test_2.dll
+C:\УЧЕБА\Языки программирования\Test_2\bin\Debug\net7.0\Test_2.pdb
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.csproj.AssemblyReference.cache
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.AssemblyInfoInputs.cache
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.AssemblyInfo.cs
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.dll
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\refint\Test_2.dll
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.pdb
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\Test_2.genruntimeconfig.cache
+C:\УЧЕБА\Языки программирования\Test_2\obj\Debug\net7.0\ref\Test_2.dll
